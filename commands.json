@@ -1,0 +1,5 @@
+[
+    {"command": "/ping", "reply": "🏓 Pong!"},
+    {"command": "/hi", "reply": "👋 Hello!"},
+    {"command": "/bye", "reply": "👋 Goodbye!"}
+]
